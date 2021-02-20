@@ -148,7 +148,7 @@ export default {
       border: none;
       border-bottom: solid 1px #fff;
       width: 80%;
-      margin-top: 1%;
+      margin-top: 2%;
     }
     #name{
       width: 90%;

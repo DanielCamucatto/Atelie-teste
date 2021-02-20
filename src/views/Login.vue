@@ -49,7 +49,7 @@ export default {
         width: 40%;
     }
     form input{
-        width: 100%;
+        width: 80%;
         margin-top: 10% ;
     }
     .questions{
