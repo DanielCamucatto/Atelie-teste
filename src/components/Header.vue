@@ -7,7 +7,9 @@
                     <button id="login" class="btn">
                         <router-link class="btn" to="/login">LOGIN</router-link>
                     </button>
-                    <button id="register" class="btn">CADASTRE-SE</button>
+                    <button id="register" class="btn">
+                        <router-link class="btn" to="/">CADASTRE-SE</router-link>
+                    </button>
                 </div>
             </div>
             <div id="clouds"><img src="../assets/img/clouds.png" alt=""></div>

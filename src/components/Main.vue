@@ -101,7 +101,7 @@ export default {
     #container-main{
         background-image: url('../assets/img/background-marrom.png');
         /* background-repeat: no-repeat; */
-        height: 80vh;
+        height: 100vh;
         color: white;
     }
     h1{
@@ -123,6 +123,11 @@ export default {
       margin:  -3% auto;
       width: 50%;
       padding: 0px 3%;
+    }
+    form input{
+        width: 80%;
+        margin-top: 5%;
+        margin-bottom: -2%;
     }
     #cols{
       display: grid;
